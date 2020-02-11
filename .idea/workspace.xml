@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XGATN9sjnDKfxONVD8ZtF6cHe2" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.SpartanTestWithPath.getSpartanWithPath">
+    <configuration name="HrApiTestWithParameters.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HrApiTestWithParameters" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithParameters (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithParameters" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithParameters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithParameters" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithPath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithPath.getSpartanWithPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithPath" />
+      <option name="METHOD_NAME" value="getSpartanWithPath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SpartanTestWithPath.getSpartanWithPath" />
+        <item itemvalue="TestNG.SpartanTestWithPath" />
+        <item itemvalue="TestNG.HrApiTestWithParameters.test1" />
+        <item itemvalue="TestNG.SpartanTestWithParameters" />
+        <item itemvalue="TestNG.SpartanTestWithParameters (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="" />
+      <created>1580662064893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580662064893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581327591054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581327591054" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581457579746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457579746" />
+    <state width="1877" height="235" key="GridCell.Tab.0.bottom" timestamp="1581457734299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734299" />
+    <state width="1877" height="235" key="GridCell.Tab.0.center" timestamp="1581457734298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734298" />
+    <state width="1877" height="235" key="GridCell.Tab.0.left" timestamp="1581457734298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734298" />
+    <state width="1877" height="235" key="GridCell.Tab.0.right" timestamp="1581457734299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="235" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734299" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581454080971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581454080971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581454080971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581454080971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1581442300328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581442300328" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580721831534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580721831534" />
+  </component>
+</project>
