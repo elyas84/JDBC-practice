@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="" />
+    <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/HRApiTestWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/HRApiTestWithPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/SpartanTestWithJsonPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/SpartanTestWithPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/SpartanTestWithPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/APITest/SpartanTestWithPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/APITest/SpartanTestWithPath.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XGATN9sjnDKfxONVD8ZtF6cHe2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,8 +41,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.SpartanTestWithPath.getSpartanWithPath">
-    <configuration name="HrApiTestWithParameters.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HRApiTestWithJsonPath.findAllEmployeesExample">
+    <configuration name="HRApiTestWithJsonPath.countriesWithJsonPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -40,8 +56,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HrApiTestWithParameters" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithJsonPath" />
+      <option name="METHOD_NAME" value="countriesWithJsonPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -49,7 +65,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanTestWithParameters (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HRApiTestWithJsonPath.findAllEmployeesExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -58,15 +74,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithParameters" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithJsonPath" />
+      <option name="METHOD_NAME" value="findAllEmployeesExample" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanTestWithParameters" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HRApiTestWithPath.countriesWithQueryParam2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -75,15 +92,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithParameters" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithPath" />
+      <option name="METHOD_NAME" value="countriesWithQueryParam2" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanTestWithPath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HRApiTestWithPath.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -92,15 +110,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithPath" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithPath" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanTestWithPath.getSpartanWithPath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SpartanTestWithJsonPath.verifyOneSpartanJsonCode8" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +128,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithPath" />
-      <option name="METHOD_NAME" value="getSpartanWithPath" />
+      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithJsonPath" />
+      <option name="METHOD_NAME" value="verifyOneSpartanJsonCode8" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -120,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SpartanTestWithPath.getSpartanWithPath" />
-        <item itemvalue="TestNG.SpartanTestWithPath" />
-        <item itemvalue="TestNG.HrApiTestWithParameters.test1" />
-        <item itemvalue="TestNG.SpartanTestWithParameters" />
-        <item itemvalue="TestNG.SpartanTestWithParameters (2)" />
+        <item itemvalue="TestNG.HRApiTestWithJsonPath.findAllEmployeesExample" />
+        <item itemvalue="TestNG.HRApiTestWithJsonPath.countriesWithJsonPath" />
+        <item itemvalue="TestNG.SpartanTestWithJsonPath.verifyOneSpartanJsonCode8" />
+        <item itemvalue="TestNG.HRApiTestWithPath.countriesWithQueryParam2" />
+        <item itemvalue="TestNG.HRApiTestWithPath.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -150,38 +169,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457579746" />
-    <state width="1877" height="235" key="GridCell.Tab.0.bottom" timestamp="1581457734299">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1581526223997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734299" />
-    <state width="1877" height="235" key="GridCell.Tab.0.center" timestamp="1581457734298">
+    <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581526223997" />
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1581542909588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734298" />
-    <state width="1877" height="235" key="GridCell.Tab.0.left" timestamp="1581457734298">
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581542909588" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1581542909588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734298" />
-    <state width="1877" height="235" key="GridCell.Tab.0.right" timestamp="1581457734299">
+    <state width="1877" height="237" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581542909588" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1581542909588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581457734299" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581454080971">
+    <state width="1877" height="237" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581542909588" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1581542909588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581454080971">
+    <state width="1877" height="237" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581542909588" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581459273800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581454080971">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581459273800" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1581459273799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581454080971">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581459273799" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1581459273799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581454080971" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581459273799" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1581459273800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581459273800" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1581442300328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
