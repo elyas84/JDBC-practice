@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/HRApiTestWithJsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/HRApiTestWithPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/SpartanTestWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/CBTrainingTestWithJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/HamcrestMatchersApiTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/SpartanTestWithPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/SpartanTestWithPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/APITest/SpartanTestWithPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/APITest/SpartanTestWithPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +44,8 @@
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.HRApiTestWithJsonPath.findAllEmployeesExample">
-    <configuration name="HRApiTestWithJsonPath.countriesWithJsonPath" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HamcrestMatchersApiTest">
+    <configuration name="CBTrainingTestWithJson.getAStudentWithJsonPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +54,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithJsonPath" />
-      <option name="METHOD_NAME" value="countriesWithJsonPath" />
+      <option name="MAIN_CLASS_NAME" value="APITest.CBTrainingTestWithJson" />
+      <option name="METHOD_NAME" value="getAStudentWithJsonPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -65,7 +63,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRApiTestWithJsonPath.findAllEmployeesExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HamcrestMatchersApiTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +72,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithJsonPath" />
-      <option name="METHOD_NAME" value="findAllEmployeesExample" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HamcrestMatchersApiTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HamcrestMatchersApiTest.singleSpartanbyChaining" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HamcrestMatchersApiTest" />
+      <option name="METHOD_NAME" value="singleSpartanbyChaining" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -83,7 +98,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRApiTestWithPath.countriesWithQueryParam2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HamcrestMatchersApiTest.teacherAllDataWithHamcrest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +107,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithPath" />
-      <option name="METHOD_NAME" value="countriesWithQueryParam2" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HamcrestMatchersApiTest" />
+      <option name="METHOD_NAME" value="teacherAllDataWithHamcrest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -101,7 +116,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRApiTestWithPath.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HamcrestMatchersApiTest.teacherData" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -110,26 +125,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithPath" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpartanTestWithJsonPath.verifyOneSpartanJsonCode8" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JDBC-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="APITest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithJsonPath" />
-      <option name="METHOD_NAME" value="verifyOneSpartanJsonCode8" />
+      <option name="MAIN_CLASS_NAME" value="APITest.HamcrestMatchersApiTest" />
+      <option name="METHOD_NAME" value="teacherData" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HRApiTestWithJsonPath.findAllEmployeesExample" />
-        <item itemvalue="TestNG.HRApiTestWithJsonPath.countriesWithJsonPath" />
-        <item itemvalue="TestNG.SpartanTestWithJsonPath.verifyOneSpartanJsonCode8" />
-        <item itemvalue="TestNG.HRApiTestWithPath.countriesWithQueryParam2" />
-        <item itemvalue="TestNG.HRApiTestWithPath.test3" />
+        <item itemvalue="TestNG.HamcrestMatchersApiTest" />
+        <item itemvalue="TestNG.HamcrestMatchersApiTest.teacherAllDataWithHamcrest" />
+        <item itemvalue="TestNG.HamcrestMatchersApiTest.teacherData" />
+        <item itemvalue="TestNG.HamcrestMatchersApiTest.singleSpartanbyChaining" />
+        <item itemvalue="TestNG.CBTrainingTestWithJson.getAStudentWithJsonPath" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +170,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581526223997" />
-    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1581543624552">
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1581624011876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
-    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1581543624552">
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581624011876" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1581624011876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
-    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1581543624552">
+    <state width="1877" height="237" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581624011876" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1581624011876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
-    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1581543624552">
+    <state width="1877" height="237" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581624011876" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1581624011876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581624011876" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581459273800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
