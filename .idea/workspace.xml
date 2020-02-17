@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Link_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Pojo_deserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/EMPLOYEES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Link_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Pojo_deserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/JsonToJavaCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Link_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/POJO_deserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/POSTMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/SPARTAN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POSTMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POSTMethod.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +55,8 @@
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.POSTMethod.PostNewSpartan">
-    <configuration name="HomeworkOne.homeWorkTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HomeworkTwo.test2">
+    <configuration name="HomeworkThree.test5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +65,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
-      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkOne" />
-      <option name="METHOD_NAME" value="homeWorkTest2" />
+      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkThree" />
+      <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -88,17 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonToJavaCollections.regionJsonMap" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkThree.test6 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6_Gson.*" />
+          <option name="PATTERN" value="APITest.JamalHomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day6_Gson" />
-      <option name="MAIN_CLASS_NAME" value="Day6_Gson.JsonToJavaCollections" />
-      <option name="METHOD_NAME" value="regionJsonMap" />
+      <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkThree" />
+      <option name="METHOD_NAME" value="test6" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,17 +92,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="POJO_deserialize.GsonExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkThree.test6" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6_Gson.*" />
+          <option name="PATTERN" value="APITest.JamalHomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day6_Gson" />
-      <option name="MAIN_CLASS_NAME" value="Day6_Gson.POJO_deserialize" />
-      <option name="METHOD_NAME" value="GsonExample" />
+      <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkThree" />
+      <option name="METHOD_NAME" value="test6" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -124,17 +110,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="POSTMethod.PostNewSpartan" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkThree.test7" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6_Gson.*" />
+          <option name="PATTERN" value="APITest.JamalHomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day6_Gson" />
-      <option name="MAIN_CLASS_NAME" value="Day6_Gson.POSTMethod" />
-      <option name="METHOD_NAME" value="PostNewSpartan" />
+      <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkThree" />
+      <option name="METHOD_NAME" value="test7" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -142,52 +128,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pojo_deserialize (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkTwo.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6_Gson.Employess.*" />
+          <option name="PATTERN" value="APITest.JamalHomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day6_Gson.Employess" />
-      <option name="MAIN_CLASS_NAME" value="Day6_Gson.Employess.Pojo_deserialize" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pojo_deserialize.test1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JDBC-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day6_Gson.Country.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day6_Gson.Country" />
-      <option name="MAIN_CLASS_NAME" value="Day6_Gson.Country.Pojo_deserialize" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pojo_deserialize.test1 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JDBC-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day6_Gson.Employess.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day6_Gson.Employess" />
-      <option name="MAIN_CLASS_NAME" value="Day6_Gson.Employess.Pojo_deserialize" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
+      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkTwo" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -197,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.POSTMethod.PostNewSpartan" />
-        <item itemvalue="TestNG.POJO_deserialize.GsonExample" />
-        <item itemvalue="TestNG.Pojo_deserialize.test1 (2)" />
-        <item itemvalue="TestNG.Pojo_deserialize (1)" />
-        <item itemvalue="TestNG.Pojo_deserialize.test1 (1)" />
+        <item itemvalue="TestNG.HomeworkTwo.test2" />
+        <item itemvalue="TestNG.HomeworkThree.test7" />
+        <item itemvalue="TestNG.HomeworkThree.test6" />
+        <item itemvalue="TestNG.HomeworkThree.test6 (1)" />
+        <item itemvalue="TestNG.HomeworkThree.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -219,10 +170,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581865834582">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581935121128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581865834582" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581935121128" />
     <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1581872082689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -239,25 +190,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581526223997" />
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1581885936448">
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1581943014737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581885936448" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
     <state width="1493" height="177" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
-    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1581885936447">
+    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1581943014737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581885936447" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
     <state width="1493" height="177" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1581885936447">
+    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1581943014737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581885936447" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
     <state width="1493" height="177" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1581885936448">
+    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1581943014737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581885936448" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
     <state width="1493" height="177" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581459273800">
       <screen x="0" y="0" width="1920" height="1040" />

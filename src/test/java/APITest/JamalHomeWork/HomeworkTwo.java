@@ -7,11 +7,11 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import utilities.ConfigurationReader;
 
-import java.util.List;
+
 
 import static io.restassured.RestAssured.given;
-import static org.testng.Assert.assertEquals;
-import static org.testng.Assert.assertTrue;
+import static org.hamcrest.Matchers.*;
+import static org.testng.Assert.*;
 
 
 public class HomeworkTwo {
@@ -70,21 +70,30 @@ And size is 20
 And totalPages is 1
 And sorted is false
          */
-
-      given().accept(ContentType.JSON).and().get("/spartans/search?gender=Female&nameContains=r")
-              .then().assertThat().statusCode(200).and().contentType("application/json;charset=UTF-8");
-
-      Response response =  given().accept(ContentType.JSON).and().get("/spartans/search?gender=Female&nameContains=r");
-        List<String> nameList= response.path("content.name");
-        System.out.println("nameList = " + nameList);
-        assertTrue(nameList.contains("R"));
-        int sizNumber = response.body().path("size", "20");
-        assertEquals(sizNumber,20);
-        String totalPage = response.path("totalPages", "1");
-        assertEquals(totalPage, 1);
-
-
-
-
+        //    Given accept type is json
+        given().accept(ContentType.JSON)
+                //    And query param gender = Female
+                .queryParam("gender","Female")
+                //    And queary param nameContains = r
+                .queryParam("nameContains","r")
+                //    When user sends a get request to "/spartans/search"
+                .when().get("/spartans/search")
+                //    Then status code is 200
+                .then().assertThat().statusCode(200)
+                //    And content-type is "application/json;charset=UTF-8"
+                .and().assertThat().contentType("application/json;charset=UTF-8")
+                //    And all genders are Female
+                .and().assertThat().body("content.gender",hasItems("Female"))
+                //    And all names contains r
+                .and().assertThat().body("content.name", hasItems(containsStringIgnoringCase("r")))
+                //    And size is 20
+                .and().assertThat().body("size",equalTo(20))
+                //    And totalPages is 1
+                .and().assertThat().body("totalPages",equalTo(1))
+                //    And sorted is false
+                .and().assertThat().body("sort.sorted",equalTo(false));
     }
+
+
 }
+
