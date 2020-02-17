@@ -19,7 +19,14 @@ public class POJO_deserialize {
     public void setUp() {
         RestAssured.baseURI = ConfigurationReader.get("spartanapi.uri");
     }
-
+/*
+        {
+            "id": 15,
+            "name": "Meta",
+            "gender": "Female",
+            "phone": 1938695106
+            }
+ */
 
     @Test
 

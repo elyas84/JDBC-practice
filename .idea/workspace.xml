@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day7/BookitAutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day7/SpartanPutDelete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/POJO_deserialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/POJO_deserialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/POSTMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/POSTMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POJO_deserialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POJO_deserialize.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POSTMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POSTMethod.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,32 +44,34 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice\src\test\java\APITest\JamalHomeWork" />
+      <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice\src\test\java\Day6_Gson\Employess" />
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice\src\test\java\Day6_Gson\Countries" />
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice\src\test\java\Day6_Gson" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice" />
-    </key>
   </component>
-  <component name="RunManager" selected="TestNG.HomeworkTwo.test2">
-    <configuration name="HomeworkThree.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BookitAutoTest.getAllcampusWithAccessToken">
+    <configuration name="BookitAutoTest.getAllcampusWithAccessToken" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APITest.JamalHomeWork.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
-      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkThree" />
-      <option name="METHOD_NAME" value="test5" />
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.BookitAutoTest" />
+      <option name="METHOD_NAME" value="getAllcampusWithAccessToken" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -74,7 +79,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkThree.test6 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkThree.test6" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -110,17 +115,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkThree.test7" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="POSTMethod.PostNewSpartanWithPOJO" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APITest.JamalHomeWork.*" />
+          <option name="PATTERN" value="Day6_Gson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
-      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkThree" />
-      <option name="METHOD_NAME" value="test7" />
+      <option name="PACKAGE_NAME" value="Day6_Gson" />
+      <option name="MAIN_CLASS_NAME" value="Day6_Gson.POSTMethod" />
+      <option name="METHOD_NAME" value="PostNewSpartanWithPOJO" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -128,17 +133,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkTwo.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SpartanPutDelete" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APITest.JamalHomeWork.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="APITest.JamalHomeWork" />
-      <option name="MAIN_CLASS_NAME" value="APITest.JamalHomeWork.HomeworkTwo" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.SpartanPutDelete" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanPutDelete.deleteSpartans" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.SpartanPutDelete" />
+      <option name="METHOD_NAME" value="deleteSpartans" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanPutDelete.updatingSpartan" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.SpartanPutDelete" />
+      <option name="METHOD_NAME" value="updatingSpartan" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -148,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomeworkTwo.test2" />
-        <item itemvalue="TestNG.HomeworkThree.test7" />
-        <item itemvalue="TestNG.HomeworkThree.test6" />
-        <item itemvalue="TestNG.HomeworkThree.test6 (1)" />
-        <item itemvalue="TestNG.HomeworkThree.test5" />
+        <item itemvalue="TestNG.BookitAutoTest.getAllcampusWithAccessToken" />
+        <item itemvalue="TestNG.SpartanPutDelete.deleteSpartans" />
+        <item itemvalue="TestNG.SpartanPutDelete" />
+        <item itemvalue="TestNG.SpartanPutDelete.updatingSpartan" />
+        <item itemvalue="TestNG.POSTMethod.PostNewSpartanWithPOJO" />
       </list>
     </recent_temporary>
   </component>
@@ -182,33 +222,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581797255659" />
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581874927699">
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581950125898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581874927699" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581950125898" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1581526223997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581526223997" />
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1581943014737">
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1581973260037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581973260037" />
     <state width="1493" height="177" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
-    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1581943014737">
+    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1581973260037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581973260037" />
     <state width="1493" height="177" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1581943014737">
+    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1581973260037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581973260037" />
     <state width="1493" height="177" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1581943014737">
+    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1581973260037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581943014737" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581973260037" />
     <state width="1493" height="177" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581459273800">
       <screen x="0" y="0" width="1920" height="1040" />

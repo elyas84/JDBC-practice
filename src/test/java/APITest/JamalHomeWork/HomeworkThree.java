@@ -1,17 +1,18 @@
 package APITest.JamalHomeWork;
 
+import com.google.gson.Gson;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
+import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+import org.w3c.dom.ls.LSException;
 import utilities.ConfigurationReader;
 
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
-import static io.restassured.RestAssured.get;
-import static io.restassured.RestAssured.given;
+import static io.restassured.RestAssured.*;
 import static org.testng.Assert.*;
 
 public class HomeworkThree {
@@ -35,6 +36,7 @@ public class HomeworkThree {
         assertEquals(response.statusCode(),200);
         assertEquals(response.contentType(),"application/json; charset=utf-8");
        response.prettyPrint();
+
 
     }
 /*
@@ -122,17 +124,16 @@ NOTE: Available region values are given in the documentation
      */
     @Test
     public void test6() {
-        Response response = given().accept(ContentType.JSON)
-                .and().queryParam("region", "Sweden").and()
-                .queryParam("amount", 2)
-                .get("");
+        Response response = given().accept(ContentType.JSON).and()
+                .queryParam("region","Sweden").and()
+                .queryParam("amount",3).and().get("");
+
         assertEquals(response.statusCode(), 200);
         assertEquals(response.contentType(), "application/json; charset=utf-8");
-        List<String> stringList = response.path("name");
-        List<String> stringList1 = response.path("surname");
 
 
     }
+
 /*
 3 params test
 1. Create a request by providing query parameters: a valid region, gender and amount (must be bigger
@@ -143,19 +144,6 @@ than 1)
 
     @Test
     public void test7(){
-
-        Response response = given().accept(ContentType.JSON)
-                .and().queryParam("region","Sweden").and()
-                .queryParam("amount",2).and()
-                .queryParam("gender","female")
-                .get("");
-        assertEquals(response.statusCode(),200);
-        assertEquals(response.contentType(),"application/json; charset=utf-8");
-        List<String> stringList = response.path("name");
-        List<String> stringList1 =response.path("surname");
-        List<String> stringList3 = response.path("gender");
-
-
 
 
     }
