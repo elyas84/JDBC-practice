@@ -1,6 +1,5 @@
 package APITest.JamalHomeWork;
 
-import com.google.gson.Gson;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
