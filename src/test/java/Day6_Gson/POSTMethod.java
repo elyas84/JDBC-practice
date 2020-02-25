@@ -12,7 +12,6 @@ import java.util.Map;
 
 import static io.restassured.RestAssured.given;
 import static org.testng.Assert.assertEquals;
-
 public class POSTMethod {
 /*
     Given accept type and Content type is JSON

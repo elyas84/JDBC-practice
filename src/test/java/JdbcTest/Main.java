@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args) throws SQLException {
 
         //Those are the connection Strings to get connect with the database
+        //at the real work we have to ask them what is the connection String
 
         String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
         String dbUsername = "hr";
@@ -21,6 +22,7 @@ public class Main {
         Statement statement = connection.createStatement();
         //move pointer to next row,, the purpose move to pointer
         ResultSet resultSet = statement.executeQuery("select * from employees");
+
         //move pointer to next row
         //resultSet.next();
         // System.out.println(resultSet.getString("region_name"));
