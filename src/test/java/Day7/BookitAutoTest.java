@@ -34,6 +34,10 @@ public class BookitAutoTest {
             //assertEquals(response.statusCode(),200);
             System.out.println(response.prettyPrint());
 
+            System.out.println("=====================================");
+            response.body().path("accessToken");
+            System.out.println("accessToken = " + accessToken);
+
 
 
         }

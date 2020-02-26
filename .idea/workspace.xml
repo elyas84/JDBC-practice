@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day8_JsomSchema/JsonSchemaValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/SingleSpartanSchema.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/POSTMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day6_Gson/POSTMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JdbcTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JdbcTest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JdbcTest/PracticingJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JdbcTest/PracticingJdbc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/DBUtilsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/DBUtilsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/PracticingJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/PracticingJdbc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day7/BookitAutoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day7/BookitAutoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,18 +60,54 @@
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.JsonSchemaValidation.jsonSchemaValidationForSpartan">
-    <configuration name="JsonSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BookitAutoTest">
+    <configuration name="BookitAutoTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day8_JsomSchema.*" />
+          <option name="PATTERN" value="Day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day8_JsomSchema" />
-      <option name="MAIN_CLASS_NAME" value="Day8_JsomSchema.JsonSchemaValidation" />
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.BookitAutoTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookitAutoTest.getAllcampusWithAccessToken (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.BookitAutoTest" />
+      <option name="METHOD_NAME" value="getAllcampusWithAccessToken" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookitAutoTest.getAllcampusWithAccessToken" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day7" />
+      <option name="MAIN_CLASS_NAME" value="Day7.BookitAutoTest" />
+      <option name="METHOD_NAME" value="getAllcampusWithAccessToken" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -104,54 +132,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticingJdbc.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="POJO_deserialize" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JdbcTest.*" />
+          <option name="PATTERN" value="Day6_Gson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JdbcTest" />
-      <option name="MAIN_CLASS_NAME" value="JdbcTest.PracticingJdbc" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticingJdbc.test3" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JDBC-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JdbcTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JdbcTest" />
-      <option name="MAIN_CLASS_NAME" value="JdbcTest.PracticingJdbc" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="jdbcUtilExample.metadata" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JDBC-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JdbcTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JdbcTest" />
-      <option name="MAIN_CLASS_NAME" value="JdbcTest.jdbcUtilExample" />
-      <option name="METHOD_NAME" value="metadata" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="Day6_Gson" />
+      <option name="MAIN_CLASS_NAME" value="Day6_Gson.POJO_deserialize" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -160,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BookitAutoTest" />
+        <item itemvalue="TestNG.BookitAutoTest.getAllcampusWithAccessToken" />
+        <item itemvalue="TestNG.BookitAutoTest.getAllcampusWithAccessToken (1)" />
+        <item itemvalue="TestNG.POJO_deserialize" />
         <item itemvalue="TestNG.JsonSchemaValidation.jsonSchemaValidationForSpartan" />
-        <item itemvalue="TestNG.JsonSchemaValidation" />
-        <item itemvalue="TestNG.jdbcUtilExample.metadata" />
-        <item itemvalue="TestNG.PracticingJdbc.test3" />
-        <item itemvalue="TestNG.PracticingJdbc.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -210,25 +201,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581526223997" />
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1582653537384">
+    <state width="1877" height="193" key="GridCell.Tab.0.bottom" timestamp="1582711352687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582653537384" />
+    <state width="1877" height="193" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582711352687" />
     <state width="1493" height="177" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
-    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1582653537384">
+    <state width="1877" height="193" key="GridCell.Tab.0.center" timestamp="1582711352687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582653537384" />
+    <state width="1877" height="193" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582711352687" />
     <state width="1493" height="177" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1582653537383">
+    <state width="1877" height="193" key="GridCell.Tab.0.left" timestamp="1582711352686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582653537383" />
+    <state width="1877" height="193" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582711352686" />
     <state width="1493" height="177" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1582653537384">
+    <state width="1877" height="193" key="GridCell.Tab.0.right" timestamp="1582711352687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582653537384" />
+    <state width="1877" height="193" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582711352687" />
     <state width="1493" height="177" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581459273800">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -262,9 +253,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="375" width="707" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582317079760" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581883921627">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582653962605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581883921627" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582653962605" />
   </component>
 </project>
