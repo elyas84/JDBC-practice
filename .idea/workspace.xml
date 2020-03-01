@@ -5,6 +5,8 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/POSTMANRETESTING/Repeat02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/POSTMANRETESTING/Repeat03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
