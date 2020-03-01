@@ -46,10 +46,6 @@ public class PracticingJdbc {
     @Test
     public void test2() throws SQLException {
 
-        String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
-        String dbUsername = "hr";
-        String dbPassword = "hr";
-
         //With default setting of statement class, driver only goes up to down.
 
         Connection connection = DriverManager.getConnection(dbUrl, dbUsername, dbPassword);
@@ -81,11 +77,6 @@ public class PracticingJdbc {
     @Test
     public void test3() throws SQLException {
 
-        String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
-        String dbUsername = "hr";
-        String dbPassword = "hr";
-
-
         Connection connection = DriverManager.getConnection(dbUrl, dbUsername, dbPassword);
         Statement statement = connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
         ResultSet resultSet = statement.executeQuery("select * from locations");
@@ -110,7 +101,7 @@ public class PracticingJdbc {
 
 
         System.out.println("==========================================");
-        //Print all column names dynamicly
+        //Print all column names dynamically
 */
         int columnCount = resultSetMetaData.getColumnCount();
 
