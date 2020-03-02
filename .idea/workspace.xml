@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JsonToJavaCollection/ConvertingGsonTOJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JsonToJavaCollection/POSTING.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JsonToJavaCollection/PojoDeserialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JsonToJavaCollection/SPAR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/JamalHomeWork/HomeworkThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Countries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Link.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Link_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Country/Pojo_deserialize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/EMPLOYEES.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Link.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Link_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Employess/Pojo_deserialize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Link.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Link_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/POJO_deserialize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/POSTMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/Region.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day6_Gson/SPARTAN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/POSTMANRETESTING/Repeat4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/POSTMANRETESTING/Repeat04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/APITest/JamalHomeWork/HomeworkThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Country/Countries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Country/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Country/Link.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Country/Link_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Country/Pojo_deserialize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Employess/EMPLOYEES.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Employess/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Employess/Link.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Employess/Link_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Employess/Pojo_deserialize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Link.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Link_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POJO_deserialize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/POSTMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/Region.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day6_Gson/SPARTAN.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,25 +60,7 @@
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice\src\test\java\Day6_Gson" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PojoDeserialization.regionWithPojo">
-    <configuration name="ConvertingGsonTOJava.regionJsonToMap" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JDBC-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JsonToJavaCollection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JsonToJavaCollection" />
-      <option name="MAIN_CLASS_NAME" value="JsonToJavaCollection.ConvertingGsonTOJava" />
-      <option name="METHOD_NAME" value="regionJsonToMap" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Repeat04">
     <configuration name="POJO_deserialize.oneSpartanWithPOJO" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
@@ -174,6 +115,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Repeat04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JDBC-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POSTMANRETESTING.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="POSTMANRETESTING" />
+      <option name="MAIN_CLASS_NAME" value="POSTMANRETESTING.Repeat04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Repeat04.getAsStudentWithJsonPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
@@ -194,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Repeat04" />
         <item itemvalue="TestNG.PojoDeserialization.regionWithPojo" />
         <item itemvalue="TestNG.PojoDeserialization.oneSpartanWithPojo" />
         <item itemvalue="TestNG.Repeat04.getAsStudentWithJsonPath" />
         <item itemvalue="TestNG.POJO_deserialize.oneSpartanWithPOJO" />
-        <item itemvalue="TestNG.ConvertingGsonTOJava.regionJsonToMap" />
       </list>
     </recent_temporary>
   </component>
@@ -248,25 +206,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581526223997" />
-    <state width="1877" height="253" key="GridCell.Tab.0.bottom" timestamp="1583159670317">
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom" timestamp="1583161701449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="253" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583159670317" />
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583161701449" />
     <state width="1493" height="177" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
-    <state width="1877" height="253" key="GridCell.Tab.0.center" timestamp="1583159670317">
+    <state width="1877" height="253" key="GridCell.Tab.0.center" timestamp="1583161701449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="253" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583159670317" />
+    <state width="1877" height="253" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583161701449" />
     <state width="1493" height="177" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="253" key="GridCell.Tab.0.left" timestamp="1583159670317">
+    <state width="1877" height="253" key="GridCell.Tab.0.left" timestamp="1583161701449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="253" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583159670317" />
+    <state width="1877" height="253" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583161701449" />
     <state width="1493" height="177" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069269" />
-    <state width="1877" height="253" key="GridCell.Tab.0.right" timestamp="1583159670317">
+    <state width="1877" height="253" key="GridCell.Tab.0.right" timestamp="1583161701449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="253" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583159670317" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1583161701449" />
     <state width="1493" height="177" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1581796069270" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581459273800">
       <screen x="0" y="0" width="1920" height="1040" />

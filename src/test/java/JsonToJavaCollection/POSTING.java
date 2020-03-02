@@ -20,7 +20,6 @@ public class POSTING {
         addingSpar.put("name","Honda");
         addingSpar.put("gender","Male");
         addingSpar.put("phone",7894256123L);
-
     }
 
 }
