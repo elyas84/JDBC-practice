@@ -1,16 +1,6 @@
-package Day6_Gson;
+package JsonToJavaCollection;
 
-/*
-        {
-            "id": 15,
-            "name": "Meta",
-            "gender": "Female",
-            "phone": 1938695106
-            }
- */
-
-public class SPARTAN {
-
+public class SPAR {
     private int id;
     private String name;
     private String gender;
@@ -18,7 +8,7 @@ public class SPARTAN {
 
     @Override
     public String toString() {
-        return "SPARTAN{" +
+        return "SPAR{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", gender='" + gender + '\'' +
@@ -26,12 +16,7 @@ public class SPARTAN {
                 '}';
     }
 
-    public SPARTAN() {
-
-
-    }
-
-    public SPARTAN(int id, String name, String gender, Long phone) {
+    public SPAR(int id, String name, String gender, Long phone) {
         this.id = id;
         this.name = name;
         this.gender = gender;
@@ -70,4 +55,10 @@ public class SPARTAN {
         this.phone = phone;
     }
 
+    public SPAR() {
+
+
+    }
 }
+
+

@@ -14,7 +14,7 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 import static org.hamcrest.Matchers.equalTo;
 
-public class Repeat4 {
+public class Repeat04 {
 
     @BeforeClass
     public void setUp(){

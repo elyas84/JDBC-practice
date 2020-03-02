@@ -102,7 +102,7 @@ NOTE: Available region values are given in the documentation
     Invalid region test
 1. Create a request by providing query parameter: invalid region
 2. Verify status code 400 and status line contains Bad Request
-3. Verify that value of error field is Region or language not found
+3. Verify that value of error field is region or language not found
 
      */
     @Test
@@ -112,7 +112,7 @@ NOTE: Available region values are given in the documentation
                 .get("");
         System.out.println("response.statusLine() = " + response.statusLine());
         String invalidValue= response.prettyPrint();
-        assertTrue(invalidValue.contains("Region or language not found"));
+        assertTrue(invalidValue.contains("region or language not found"));
     }
 
     /*
