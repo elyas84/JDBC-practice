@@ -14,7 +14,7 @@ public class jdbcUtilExample {
     //-----------------------------------------beginning of Code----------------------------------//
 
 
-    String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
+    String dbUrl = "jdbc:oracle:thin:@54.145.112.194:1521:xe";
     String dbUsername = "hr";
     String dbPassword = "hr";
 
@@ -23,7 +23,7 @@ public class jdbcUtilExample {
         Connection connection = DriverManager.getConnection(dbUrl,dbUsername,dbPassword);
         Statement statement = connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
         ResultSet resultSet = statement.executeQuery("select * from departments");
-        //get the resultset object metadata
+        //get the resultSet object metadata
         ResultSetMetaData rsMetadata = resultSet.getMetaData();
         //how many column we have ?
         System.out.println("Column count:"+rsMetadata.getColumnCount());

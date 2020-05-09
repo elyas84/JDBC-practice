@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="" />
+    <list default="true" id="e3c31fc1-61f8-4356-a7ad-ba86fe25f7fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JdbcTest/Dynamic_Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JdbcTest/Dynamic_Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JdbcTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JdbcTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JdbcTest/PracticingJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JdbcTest/PracticingJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JdbcTest/jdbcEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JdbcTest/jdbcEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JdbcTest/jdbcUtilExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JdbcTest/jdbcUtilExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day8_JsomSchema/JsonSchemaValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/Dynamic_Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/Dynamic_Query.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/PracticingJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/PracticingJdbc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/jdbcEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/jdbcEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JdbcTest/jdbcUtilExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JdbcTest/jdbcUtilExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/JDBC-practice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/POSTMANRETESTING/Repeat01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/POSTMANRETESTING/Repeat02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/POSTMANRETESTING/Repeat03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SingleSpartanSchema.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,20 +36,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1XGATN9sjnDKfxONVD8ZtF6cHe2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -39,18 +51,18 @@
       <recent name="C:\Users\Elyas\IdeaProjects\JDBC-practice" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.HRApiTestWithJsonPath.findAllEmployeesExample">
-    <configuration name="HRApiTestWithJsonPath.countriesWithJsonPath" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SpartanTest.viewAllSpartans">
+    <configuration name="Dynamic_Query.queryresult" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APITest.*" />
+          <option name="PATTERN" value="JdbcTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithJsonPath" />
-      <option name="METHOD_NAME" value="countriesWithJsonPath" />
+      <option name="PACKAGE_NAME" value="JdbcTest" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTest.Dynamic_Query" />
+      <option name="METHOD_NAME" value="queryresult" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -58,7 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRApiTestWithJsonPath.findAllEmployeesExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SpartanTest.viewAllSpartans" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +79,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithJsonPath" />
-      <option name="METHOD_NAME" value="findAllEmployeesExample" />
+      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTest" />
+      <option name="METHOD_NAME" value="viewAllSpartans" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,17 +88,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRApiTestWithPath.countriesWithQueryParam2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="jdbcEx.metaData" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APITest.*" />
+          <option name="PATTERN" value="JdbcTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithPath" />
-      <option name="METHOD_NAME" value="countriesWithQueryParam2" />
+      <option name="PACKAGE_NAME" value="JdbcTest" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTest.jdbcEx" />
+      <option name="METHOD_NAME" value="metaData" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -94,17 +106,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRApiTestWithPath.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="jdbcEx.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APITest.*" />
+          <option name="PATTERN" value="JdbcTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.HRApiTestWithPath" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="JdbcTest" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTest.jdbcEx" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -112,17 +124,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpartanTestWithJsonPath.verifyOneSpartanJsonCode8" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="jdbcUtilExample.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JDBC-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APITest.*" />
+          <option name="PATTERN" value="JdbcTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="APITest" />
-      <option name="MAIN_CLASS_NAME" value="APITest.SpartanTestWithJsonPath" />
-      <option name="METHOD_NAME" value="verifyOneSpartanJsonCode8" />
+      <option name="PACKAGE_NAME" value="JdbcTest" />
+      <option name="MAIN_CLASS_NAME" value="JdbcTest.jdbcUtilExample" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HRApiTestWithJsonPath.findAllEmployeesExample" />
-        <item itemvalue="TestNG.HRApiTestWithJsonPath.countriesWithJsonPath" />
-        <item itemvalue="TestNG.SpartanTestWithJsonPath.verifyOneSpartanJsonCode8" />
-        <item itemvalue="TestNG.HRApiTestWithPath.countriesWithQueryParam2" />
-        <item itemvalue="TestNG.HRApiTestWithPath.test3" />
+        <item itemvalue="TestNG.SpartanTest.viewAllSpartans" />
+        <item itemvalue="TestNG.Dynamic_Query.queryresult" />
+        <item itemvalue="TestNG.jdbcEx.metaData" />
+        <item itemvalue="TestNG.jdbcEx.test1" />
+        <item itemvalue="TestNG.jdbcUtilExample.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +170,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581327591054" />
+    <state x="553" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585815198166">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="553" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.797@0.23.1440.797" timestamp="1585815198166" />
+    <state x="408" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589040620214">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="408" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.797@0.23.1440.797" timestamp="1589040620214" />
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581457579746">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -166,21 +186,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581526223997" />
-    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1581543624552">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1589041359939">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1589041359939" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
-    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1581543624552">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1589041359938">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1589041359938" />
     <state width="1877" height="237" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
-    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1581543624552">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1589041359938">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1589041359938" />
     <state width="1877" height="237" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
-    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1581543624552">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1589041359939">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1589041359939" />
     <state width="1877" height="237" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581543624552" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581459273800">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -202,9 +226,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581442300328" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580721831534">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="467" y="195" width="670" height="520" key="search.everywhere.popup" timestamp="1589040930730">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state x="467" y="195" width="670" height="520" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1589040930730" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580721831534" />
   </component>
 </project>

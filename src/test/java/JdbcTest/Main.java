@@ -1,5 +1,7 @@
 package JdbcTest;
 
+import org.testng.annotations.Test;
+
 import java.sql.*;
 
 public class Main {
@@ -8,7 +10,7 @@ public class Main {
 
         //Those are the connection Strings to get connect with the database
 
-        String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
+        String dbUrl = "jdbc:oracle:thin:@54.145.112.194:1521:xe";
         String dbUsername = "hr";
         String dbPassword = "hr";
 
@@ -34,7 +36,6 @@ public class Main {
         resultSet.close();
         statement.close();
         connection.close();
-
 
     }
 

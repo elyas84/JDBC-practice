@@ -14,7 +14,7 @@ public class Dynamic_Query {
 
     @Test
     public void queryresult() throws SQLException, SQLException {
-        String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
+        String dbUrl = "jdbc:oracle:thin:@54.145.112.194:1521:xe";
         String dbUsername = "hr";
         String dbPassword = "hr";
 

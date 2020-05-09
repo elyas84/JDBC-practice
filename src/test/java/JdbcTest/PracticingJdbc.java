@@ -6,9 +6,9 @@ import java.sql.*;
 
 public class PracticingJdbc {
 
-    String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
-    String dbUsername = "hr";
-    String dbPassword = "hr";
+    String dbUrl = "jdbc:oracle:thin:@54.145.112.194:1521:xe";
+    String dbUsername = "HR";
+    String dbPassword = "HR";
 
 @Test
         public void test1() throws SQLException {
@@ -46,9 +46,9 @@ public class PracticingJdbc {
     @Test
     public void test2() throws SQLException {
 
-        String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
-        String dbUsername = "hr";
-        String dbPassword = "hr";
+        String dbUrl = "jdbc:oracle:thin:@54.145.112.194:1521:xe";
+        String dbUsername = "HR";
+        String dbPassword = "HR";
 
         //With default setting of statement class, driver only goes up to down.
 
@@ -81,9 +81,9 @@ public class PracticingJdbc {
     @Test
     public void test3() throws SQLException {
 
-        String dbUrl = "jdbc:oracle:thin:@54.174.236.45:1521:xe";
-        String dbUsername = "hr";
-        String dbPassword = "hr";
+        String dbUrl = "jdbc:oracle:thin:@54.145.112.194:1521:xe";
+        String dbUsername = "HR";
+        String dbPassword = "HR";
 
 
         Connection connection = DriverManager.getConnection(dbUrl, dbUsername, dbPassword);
@@ -118,12 +118,6 @@ public class PracticingJdbc {
             System.out.println(resultSetMetaData.getColumnName(i));
 
         }
-
-
-
-
-
-
 
         resultSet.close();
         statement.close();
